@@ -238,6 +238,7 @@ const App = () => {
           />
         ))}
       </div>
+      <div>{scoreDisplay}</div>
     </div>
   );
 };
